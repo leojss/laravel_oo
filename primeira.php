@@ -103,6 +103,3 @@ $pessoa2 = new Pessoa();
 $pessoa2->setNome("Leo");
 echo $pessoa2->getNome();
 */
-© 2022 GitHub, Inc.
-Terms
-Privac
